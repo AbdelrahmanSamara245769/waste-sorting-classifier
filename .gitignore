@@ -1,0 +1,20 @@
+# Data, model weights and survey responses are not published
+data/
+models/
+*.h5
+*.keras
+*.png
+*.jpg
+*.xlsx
+*.csv
+workflow_flux_api.json
+
+# Secrets
+.env
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

@@ -1,0 +1,16 @@
+# Versions from the project's environment (TensorFlow 2.15)
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.10.1
+pillow==11.1.0
+Xplique==1.4.0
+pandas
+scipy==1.15.2
+openpyxl
+jupyter
+
+# Dataset generation (src/generate_dataset.py)
+websocket-client
+python-dotenv
